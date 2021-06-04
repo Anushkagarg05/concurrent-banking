@@ -1,4 +1,4 @@
-package concurrentbanking;
+package main.java.concurrentbanking;
 
 import java.util.concurrent.Semaphore;
 

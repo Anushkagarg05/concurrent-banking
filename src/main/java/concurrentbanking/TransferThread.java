@@ -1,4 +1,4 @@
-package concurrentbanking;
+package main.java.concurrentbanking;
 class TransferThread extends Thread {
 
     private final Bank bank;
