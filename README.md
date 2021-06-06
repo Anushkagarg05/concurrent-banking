@@ -1,6 +1,6 @@
 # concurrent-banking
-- Simulation of banking, written in java that uses multithreading.
-  - Main Thread has a single bank instance
+- Banking Simulation
+  - Main Thread creates a bank instance
   - Each subsequent thread is associated to an account and runs 10000 times.
   - In each run it transfer a random amount to a random account.
  
